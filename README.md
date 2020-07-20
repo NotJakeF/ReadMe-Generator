@@ -3,7 +3,7 @@
     this is my work on this challenge
     figure it out and do it
     idk what this means honestly
-    [![License](https: //img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+
     myself and tutoring
     huh?
     No comment
