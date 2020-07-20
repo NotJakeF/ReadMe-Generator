@@ -30,7 +30,7 @@
     
     Please make sure to update tests as appropriate.
     
-    ![GitHub license](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)
+    ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
     [github](https://github.com/NotJakeF)
 
 
