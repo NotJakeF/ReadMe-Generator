@@ -18,7 +18,7 @@ inquirer.prompt([{
 
     }, {
         type: 'input',
-        message: 'Installation',
+        message: 'Installation Instructions',
         name: 'Installation',
 
     }, {
